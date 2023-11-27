@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541605153087",
+    "project_id": "apparencekit-free",
+    "storage_bucket": "apparencekit-free.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541605153087:android:666c7ff4a763206c7eab8a",
+        "android_client_info": {
+          "package_name": "com.example.apparence_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541605153087-894kvbh9gm2mk6a5ol0inssqenk1fnbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQTNfs6V1T515-CP58-rYBMVZMEbvnIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541605153087-894kvbh9gm2mk6a5ol0inssqenk1fnbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
